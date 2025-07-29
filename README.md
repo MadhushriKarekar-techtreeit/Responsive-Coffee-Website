@@ -23,4 +23,4 @@ CSS3
 JavaScript
 
 # 📸 Demo
-https://madhushrikarekar-techtreeit.github.io/coffee-website/ 
+[https://madhushrikarekar-techtreeit.github.io/coffee-website/ ](https://madhushrikarekar-techtreeit.github.io/Responsive-Coffee-Website/)
